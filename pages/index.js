@@ -26,7 +26,7 @@ const IndexPage = () => {
         <p>Discover the power of education with our Ethio Students.</p>
         <div style={{ marginTop: "30px" }}>
           <a
-            href="https://github.com/aMirD3v/Ethio-Students/releases/download/v1.0.0/Ethio-Students.apk"
+            href="https://github.com/aMirD3v/Ethio_Students/releases/download/v1.0.0/Ethio.Students.apk"
             className="download-button"
             style={{
               backgroundColor: "#fff",
