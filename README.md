@@ -1,5 +1,3 @@
-
-```markdown
 # Ethio Students Next.js Web
 
 Welcome to the Ethio Students Next.js web project! This project is a web application built using Next.js to provide information about students in Ethiopia.
@@ -8,7 +6,6 @@ Welcome to the Ethio Students Next.js web project! This project is a web applica
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Deployment](#deployment)
 - [Contribution](#contribution)
@@ -43,4 +40,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 Happy exploring!
 
-```
