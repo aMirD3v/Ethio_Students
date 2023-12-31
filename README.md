@@ -1,6 +1,6 @@
-# Ethio Students Next.js Web
+# Ethio Students Web
 
-Welcome to the Ethio Students Next.js web project! This project is a web application built using Next.js to provide information about students in Ethiopia.
+Ethio Students, It is an application that students can get all courses of the Ethiopian university freshman Courses and the exit exam Course
 
 ## Table of Contents
 
