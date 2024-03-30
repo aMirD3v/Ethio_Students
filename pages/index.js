@@ -51,6 +51,7 @@ const IndexPage = () => {
         <div className="contact" style={{ marginTop: "30px" }}>
           <h3>Contact Us</h3>
           <p style={{ fontSize: 12 }}>Email: elmezakaria@gmail.com</p>
+              
         </div>
       </div>
     </div>
