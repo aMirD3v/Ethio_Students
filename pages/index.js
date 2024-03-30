@@ -51,15 +51,7 @@ const IndexPage = () => {
         <div className="contact" style={{ marginTop: "30px" }}>
           <h3>Contact Us</h3>
           <p style={{ fontSize: 12 }}>Email: elmezakaria@gmail.com</p>
-          // <p style={{ fontSize: 12 }}>
-          //   Phone:
-          //   <a
-          //     href="https://wa.me/+251953194757"
-          //     target="_blank"
-          //     rel="noopener noreferrer"
-          //   >
-          //     +251953194757 (WhatsApp)
-          //   </a>
+     
           </p>
         </div>
       </div>
